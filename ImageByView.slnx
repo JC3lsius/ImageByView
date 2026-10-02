@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/ImageByView.Core/ImageByView.Core.csproj" />
+    <Project Path="src/ImageByView.Sandbox/ImageByView.Sandbox.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/ImageByView.Core.Tests/ImageByView.Core.Tests.csproj" />
+  </Folder>
+</Solution>
